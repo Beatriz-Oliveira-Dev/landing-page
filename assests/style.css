@@ -1,0 +1,47 @@
+html{
+    scroll-behavior: smooth;
+ }
+.scrollspy{
+    position: relative;
+    overflow: hidden;
+    height: 360px;
+    width: 700px;
+}
+
+.fs-16{
+    font-size: 19pt;
+}
+
+.color-bg{
+    background-color: #69a3e0;
+}
+
+ul.social-network {
+    list-style: none;
+    padding: 0;
+}
+ul.social-network li {
+    display: inline;
+    margin: 0;
+    padding: 5px;
+    
+}
+ul.social-network li a{
+    text-decoration: none;
+    
+}
+
+.fa{
+    font-size: 35pt;
+    color: white;
+    padding: 10px;
+}
+
+.fa-github:hover{
+    color: black;
+}
+.fa-instagram:hover{
+    color: #c13584;
+}
+.fa-linkedin-square:hover{
+    color: #0072b1;
